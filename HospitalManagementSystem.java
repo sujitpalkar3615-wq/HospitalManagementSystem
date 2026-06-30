@@ -231,7 +231,7 @@ public class HospitalManagementSystem {
 
                 case 5:
                     int findNum ;
-                    System.out.print("enter the Doctor id :");
+                    System.out.print("enter the Doctor id  is 9:");
                     findNum = sc.nextInt();
 
                     for(int i= 0; i < count ; i++){
